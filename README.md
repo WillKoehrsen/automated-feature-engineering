@@ -1,2 +1,2 @@
 # automated-feature-engineering
-Automated feature engineering in Python with [Featuretools](github.com/Featuretools/featuretools)
+Automated feature engineering in Python with [Featuretools](https://github.com/Featuretools/featuretools)
